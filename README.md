@@ -8,6 +8,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Tools](#tools)
 - [Guides & Scripts](#guides-and-scripts)
 - [3rd Party Accessories](#3rd-party-accessories)
+    - [Prescription Lenses](#prescription-lenses)
 - [Games](#games)
 
 --------------------
