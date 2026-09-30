@@ -1,6 +1,6 @@
 # Awesome Steam Frame
-A curated list of steam frame compatible software/hardware
 
+A curated list of steam frame compatible software, hardware and more.
 
 ## Table of contents
 
@@ -46,12 +46,18 @@ A curated list of steam frame compatible software/hardware
 ## 3rd Party Accessories
 
 - [Arcturus Vision Camera](https://arcturus.vision/) - 5K HDR color passthrough and more for Steam Frame.
-- [Zenni Prescription Lenses](https://www.zennioptical.com/p/steamframe-vr-prescription-insert/VR80004/VR8000401?srsltid=AU7gw4XJCnPWFW0JNpvOtIojc-xYr35z-MMNVu4ANL4T22Dqjia7ZmYk) - VR Prescription Lenses for Valve Steam Frame (currently only ships to US and Canada).
-- [VR Optiker Prescription Lenses] (https://vroptiker.de/sehstaerke-linsen-einsaetze/valve-steam-frame) - VR Prescription Lenses for Valve Steam Frame made in Germany that Ship to Country's in Europe.
-- [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N?lv=shuf&channelId=500&plpRedirect=mhFallback) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame.
-- [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY?lv=shuf&channelId=500&plpRedirect=mhFallback) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
+- [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame.
+- [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
+
+### Prescription Lenses
+
+- [Zenni Prescription Lenses](https://www.zennioptical.com/p/steamframe-vr-prescription-insert/VR80004) - Official Partnership with Valve.
+- [VR Optician Prescription Lenses](https://vroptician.com/prescription-lens-inserts/valve-steam-frame)
+- [WIDMOvr Prescription Lenses](https://widmovr.com/product/steam-frame-prescription-lens-adapters/)
+- [AMVR Prescription Lenses](https://www.amvrshop.com/products/amvr-nl2-prescription-lenses-steam-frame)
+- [VR-Rock Prescription Lenses](https://www.vr-rock.com/products/steam-frame-prescription-lenses)
 
 ------------------
 
