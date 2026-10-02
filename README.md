@@ -35,7 +35,6 @@ A curated list of steam frame compatible software, hardware and more.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
 - [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
-- [Harbor Freight Apache 3800](https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html) - This is not a case officially designed for Steam Frame but there is [a reddit post](https://www.reddit.com/r/SteamFrame/s/HkRnAJCRWS) saying it fits perfectly.
 
 --------------------
 
@@ -53,6 +52,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
+- [Harbor Freight Apache 3800](https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html) - This is not a case officially designed for Steam Frame but there is [a reddit post](https://www.reddit.com/r/SteamFrame/s/HkRnAJCRWS) saying it fits perfectly.
+
 
 ### Prescription Lenses
 
