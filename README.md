@@ -34,6 +34,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame Passthrough Shortcuts](https://vrdev.net/projects/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
+- [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
 
 --------------------
 
