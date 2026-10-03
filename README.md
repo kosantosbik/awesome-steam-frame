@@ -35,6 +35,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
 - [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
+- [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
 
 --------------------
 
@@ -67,4 +68,4 @@ A curated list of steam frame compatible software, hardware and more.
 
 ## Games
 
-Planning to put non-steam game launchers and tools (similar to decky loader) here. For the moment this part is empty.
+- [FramePort](https://github.com/spoopyghosty0/frameport) - Port games to work with the Steam Frame.
