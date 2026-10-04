@@ -38,6 +38,14 @@ A curated list of steam frame compatible software, hardware and more.
 - [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
 - [petplay](https://github.com/goodpuppies/petplay) - PErsonal Terminal Project overLAY.
 - [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
+- [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
+- [Chromium WebXR](https://github.com/saphid/chromium-webxr-steam-frame) - Chromium with immersive WebXR on the Steam Frame: build script, SteamVR fix, and a Steam library installer.
+- [FrameYap](https://github.com/baketnk/frame-yap) - On-device voice typing for Steam Frame: hold a button, speak, review, type. Local speech recognition, no cloud.
+- [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
+- [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
+- [ovrplugin-openxr-shim](https://github.com/daniel-lynch/ovrplugin-openxr-shim) - An independent OpenXR reimplementation of Meta's OVRPlugin ABI, so VrApi-era Quest VR titles can run on non-Meta OpenXR runtimes (Monado, Steam Frame). Interoperability — original code only.
+- [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
+- [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
 
 --------------------
 
@@ -72,3 +80,4 @@ A curated list of steam frame compatible software, hardware and more.
 
 - [FramePort](https://github.com/spoopyghosty0/frameport) - Port games to work with the Steam Frame.
 - [Quest2Frame](https://github.com/vesper8/Quest2Frame) - Transfer Quest games to Steam Frame (Original repository was taken down. This is a fork).
+- [Wiicompiled VR Frame](https://github.com/mitch030504/Wiicompiled_VR_Frame) - Wiicompiled OpenXR for steam frame.
