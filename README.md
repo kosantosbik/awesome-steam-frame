@@ -26,6 +26,7 @@ A curated list of steam frame compatible software, hardware and more.
 ## Tools
 - [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs.
 - [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
+- [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
 - [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
 - [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
 - [petplay](https://github.com/goodpuppies/petplay) - PErsonal Terminal Project overLAY.
