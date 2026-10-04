@@ -49,7 +49,7 @@ A curated list of steam frame compatible software, hardware and more.
 ### Controls
 - [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 - [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
-- [Frame Passthrough Shortcuts](https://vrdev.net/projects/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
+- [Frame Passthrough Shortcuts](https://github.com/KominoVR/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
 - [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
 - [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
 - [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
