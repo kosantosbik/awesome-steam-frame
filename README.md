@@ -6,6 +6,9 @@ A curated list of steam frame compatible software, hardware and more.
 
 - [Emulation Layers](#emulation)
 - [Tools](#tools)
+    - [Video Playing / Streaming / Recording](#video-playing--streaming--recording)
+    - [Eye Tracking](#eye-tracking)
+    - [Controls](#controls)
 - [Guides & Scripts](#guides-and-scripts)
 - [3rd Party Accessories](#3rd-party-accessories)
     - [Prescription Lenses](#prescription-lenses)
@@ -21,31 +24,37 @@ A curated list of steam frame compatible software, hardware and more.
 --------------------
 
 ## Tools
-
 - [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs.
 - [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
+- [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
+- [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
+- [petplay](https://github.com/goodpuppies/petplay) - PErsonal Terminal Project overLAY.
+- [Chromium WebXR](https://github.com/saphid/chromium-webxr-steam-frame) - Chromium with immersive WebXR on the Steam Frame: build script, SteamVR fix, and a Steam library installer.
+- [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
+- [ovrplugin-openxr-shim](https://github.com/daniel-lynch/ovrplugin-openxr-shim) - An independent OpenXR reimplementation of Meta's OVRPlugin ABI, so VrApi-era Quest VR titles can run on non-Meta OpenXR runtimes (Monado, Steam Frame). Interoperability — original code only.
+- [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
+
+### Video Playing / Streaming / Recording
+- [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
+- [Stream Frame](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
+- [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
+- [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
+
+### Eye Tracking
 - [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
 - [vrcft-steam-frame](https://github.com/hakumaguro/vrcft-steam-frame) - Eye tracking for the Steam Frame in VRChat, through VRCFaceTracking (VRCFT): per-eye gaze, real blinks and winks.
-- [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
-- [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
-- [Stream Frame](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
+- [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
+
+### Controls
 - [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 - [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
 - [Frame Passthrough Shortcuts](https://vrdev.net/projects/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
-- [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
-- [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
-- [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
-- [petplay](https://github.com/goodpuppies/petplay) - PErsonal Terminal Project overLAY.
 - [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
 - [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
-- [Chromium WebXR](https://github.com/saphid/chromium-webxr-steam-frame) - Chromium with immersive WebXR on the Steam Frame: build script, SteamVR fix, and a Steam library installer.
 - [FrameYap](https://github.com/baketnk/frame-yap) - On-device voice typing for Steam Frame: hold a button, speak, review, type. Local speech recognition, no cloud.
-- [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
 - [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
-- [ovrplugin-openxr-shim](https://github.com/daniel-lynch/ovrplugin-openxr-shim) - An independent OpenXR reimplementation of Meta's OVRPlugin ABI, so VrApi-era Quest VR titles can run on non-Meta OpenXR runtimes (Monado, Steam Frame). Interoperability — original code only.
-- [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
-- [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
+
 
 --------------------
 
