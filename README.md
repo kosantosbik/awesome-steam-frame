@@ -40,6 +40,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Stream Frame](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
+- [video2webxr](https://github.com/phit/video2webxr) - Watch YouTube 360°/VR180 videos and videos on other sites in your PC VR headset via WebXR (Chromium extension).
 
 ### Eye Tracking
 - [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
@@ -70,11 +71,12 @@ A curated list of steam frame compatible software, hardware and more.
 ## 3rd Party Accessories
 
 - [Arcturus Vision Camera](https://arcturus.vision/) - 5K HDR color passthrough and more for Steam Frame.
-- [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame.
+- [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame. (NOTE: These are known to cover some of the tracking IR thus degrading the tracking, especially the finger tracking.)
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
 - [Harbor Freight Apache 3800](https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html) - This is not a case officially designed for Steam Frame but there is [a reddit post](https://www.reddit.com/r/SteamFrame/s/HkRnAJCRWS) saying it fits perfectly.
+- [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble.
 
 
 ### Prescription Lenses
