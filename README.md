@@ -39,6 +39,19 @@ A curated list of steam frame compatible software, hardware and more.
 - [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
 - [LiquidAss-Frame](https://github.com/MichaelScottsman/LiquidAss-Frame) - Liquid glass theme and virtual music player for Steam Frame.
 - [PhoneCast VR](https://github.com/bangfireball/Phonecast_VR) - Mirror your phone into VR, check notifications, watch videos with optional phone audio, and interact using your controllers—all while a standalone game runs underneath.
+- [steam-frame-nix](https://github.com/lhns/steam-frame-nix) - Home Manager modules with fixes and tweaks for the Valve Steam Frame (SteamOS).
+- [Frameloader](https://github.com/travelerdev/frameloader) - Drag-and-drop implementation of the Valve APK and Linux sideloader written in Electron for multi-platform support.
+- [Steam Hardware Watch](https://github.com/seanbetts/steam-hardware-watch) - Agent-first watcher for Steam Controller, Steam Machine, and Steam Frame launch signals across Komodo, SteamDB, SteamTracking, and Valve endpoints.
+- [Framey](https://github.com/chaosfox26/framey) - An unofficial lightweight plugin loader for the Steam Frame. Install it with the Framey App. AI-made by ChaosFox, inspired by Decky Loader.
+- [Framey App](https://github.com/chaosfox26/framey-app) - Framey App: native Windows, Linux and macOS installer that sets up Framey and Fan Control on a Steam Frame over SSH. AI-made, unofficial.
+- [Frame Fan Control](https://github.com/chaosfox26/frame-fan) - Fan Control for Framey: live readings, presets, custom curves and a graph editor for the Steam Frame, with a stock-cooling fallback. AI-made, unofficial.
+- [openxr-dispatcher-open](https://github.com/Molier/openxr-dispatcher-open) - An open-source, drop-in replacement for the closed OpenXR dispatcher that OVRPort bundles into every converted Quest APK as lib/<abi>/libopenxr_loader.so.
+- [steam-frame-fixes](https://github.com/jareqpl/steam-frame-fixes) - Unofficial Proton and Turnip (Mesa) fixes for Steam Frame that let some games run that don't work out of the box.
+- [Moonlight XR Steam Frame](https://github.com/ajbeavers/moonlight-android-xr-steam-frame) - Moonlight XR running on the Steam Frame through Lepton: 3D game streaming from Sunshine/Apollo.
+- [SleepFrame](https://github.com/isaac-ranger/sleepframe) - A sleep-sound program for the Steam Frame.
+- [Frametanium](https://github.com/Cogential/frametanium) - Installs and updates Steam Frame apps and ports from GitHub releases, like Obtainium.
+- [frame-jp-keyboard](https://github.com/sasaken1102r/frame-jp-keyboard) - Japanese flick keyboard for Steam Frame.
+- [framely](https://github.com/SteamFramelyHomebrew/framely) - A unified spatial launcher for Steam Frame and a management panel available both inside the headset and in a PC browser.
 
 ### Video Playing / Streaming / Recording
 
@@ -67,6 +80,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [fuelCell](https://github.com/juanramosjr1/frame-voice) - Speak into any text box on your Steam Frame: the Steam store search, a browser, Discord. It also gives you easy Copy, Paste and Select all using your controllers.
 - [Steam Frame Dictation](https://github.com/khvn26/steam-frame-dictation) - Offline dictation on the Steam Frame.
 - [frame-voice](https://github.com/techieyann/frame-voice) - Voice dictation for Steam Frame. Speak into a text field using your controllers, without a keyboard or an always-on microphone.
+- [whisper-frame](https://github.com/groffta/whisper-frame) - On-device push-to-talk voice typing for the Steam Frame.
+- [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
 
 --------------------
 
@@ -107,6 +122,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
 - [Steam Frame Controllers Gamepad Coupler](https://makerworld.com/en/models/3404888-steam-frame-controllers-gamepad-coupler#profileId-3877306) - 3D printable Steam Frame controller adapter that merges two controller into one.
 - [DIY Top Strap](https://www.printables.com/model/1861609-steam-frame-diy-top-strap-2-clips-webbing) - 3D printable top strap for the Steam Frame.
+- [Steam Frame Modular Back Clip](https://www.patreon.com/SpanishPotato/posts/steam-frame-back-171534740) - A modular clip for the back of the Steam Frame, which can attach multiple mods onto it like external batteries.
 
 ------------------
 
