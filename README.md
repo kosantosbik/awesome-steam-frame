@@ -72,8 +72,9 @@ A curated list of steam frame compatible software, hardware and more.
 
 ------------------
 
-## 3rd Party Accessories
+## Accessories
 
+- [Official Steam Frame CAD Files](https://gitlab.steamos.cloud/SteamHardware/SteamFrame) - Public Steam Frame CAD and electrical references.
 - [Arcturus Vision Camera](https://arcturus.vision/) - 5K HDR color passthrough and more for Steam Frame.
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame. (NOTE: These are known to cover some of the tracking IR thus degrading the tracking, especially the finger tracking.)
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
