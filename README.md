@@ -34,6 +34,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
 - [ovrplugin-openxr-shim](https://github.com/daniel-lynch/ovrplugin-openxr-shim) - An independent OpenXR reimplementation of Meta's OVRPlugin ABI, so VrApi-era Quest VR titles can run on non-Meta OpenXR runtimes (Monado, Steam Frame). Interoperability — original code only.
 - [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
+- [LiquidAss-Frame](https://github.com/MichaelScottsman/LiquidAss-Frame) - Liquid glass theme and virtual music player for Steam Frame.
+- [PhoneCast VR](https://github.com/bangfireball/Phonecast_VR) - Mirror your phone into VR, check notifications, watch videos with optional phone audio, and interact using your controllers—all while a standalone game runs underneath.
 
 ### Video Playing / Streaming / Recording
 - [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
@@ -56,7 +58,9 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
 - [FrameYap](https://github.com/baketnk/frame-yap) - On-device voice typing for Steam Frame: hold a button, speak, review, type. Local speech recognition, no cloud.
 - [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
-
+- [fuelCell](https://github.com/juanramosjr1/frame-voice) - Speak into any text box on your Steam Frame: the Steam store search, a browser, Discord. It also gives you easy Copy, Paste and Select all using your controllers.
+- [Steam Frame Dictation](https://github.com/khvn26/steam-frame-dictation) - Offline dictation on the Steam Frame.
+- [frame-voice](https://github.com/techieyann/frame-voice) - Voice dictation for Steam Frame. Speak into a text field using your controllers, without a keyboard or an always-on microphone.
 
 --------------------
 
@@ -74,10 +78,10 @@ A curated list of steam frame compatible software, hardware and more.
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame. (NOTE: These are known to cover some of the tracking IR thus degrading the tracking, especially the finger tracking.)
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
+- [Steam Frame Controllers Gamepad Coupler](https://makerworld.com/en/models/3404888-steam-frame-controllers-gamepad-coupler#profileId-3877306) - 3D printable Steam Frame controller adapter that merges two controller into one.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
-- [Harbor Freight Apache 3800](https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html) - This is not a case officially designed for Steam Frame but there is [a reddit post](https://www.reddit.com/r/SteamFrame/s/HkRnAJCRWS) saying it fits perfectly.
 - [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble.
-
+- [DIY Top Strap](https://www.printables.com/model/1861609-steam-frame-diy-top-strap-2-clips-webbing) - 3D printable top strap for the Steam Frame.
 
 ### Prescription Lenses
 
@@ -87,6 +91,12 @@ A curated list of steam frame compatible software, hardware and more.
 - [AMVR Prescription Lenses](https://www.amvrshop.com/products/amvr-nl2-prescription-lenses-steam-frame)
 - [VR-Rock Prescription Lenses](https://www.vr-rock.com/products/steam-frame-prescription-lenses)
 
+### Cases
+
+- [Harbor Freight Apache 3800 (US)](https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html) - This is not a case officially designed for Steam Frame but there is [a reddit post](https://www.reddit.com/r/SteamFrame/s/HkRnAJCRWS) saying it fits perfectly.
+- [Txtcu Quest 3 Case (EU)](https://www.amazon.de/-/en/Txtcu-Quest-Bag-Accessories-Controllers/dp/B0D9S2K8H6?th=1) - Mini Case with hard shell for Quest 3/3S but Steam Frame fits as well.
+- [HMF ODK100 Outdoor Case (EU)](https://www.amazon.com.be/dp/B08K3K5NHY?ref=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&ref_=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&social_share=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&th=1&language=en_GB) - Strong outdoor case with pre-cut foam for cameras. [hagglezon link](https://www.hagglezon.com/en/l/B08K3K5NHY/hmf?utm_campaign=web_share&utm_content=B08K3K5NHY)
+- [JYS-SDM016 Quest 3 Case (AliExpress)](https://pl.aliexpress.com/item/1005013181166491.html?spm=a2g0o.productlist.main.5.2d41618clQpIaA&algo_pvid=b9002be5-aee5-4346-bb50-8c23ff1477f3&algo_exp_id=b9002be5-aee5-4346-bb50-8c23ff1477f3-4&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2145.32%2140.79%21%21%21332.75%21299.49%21%400b884c0217912874664135146e1492%2112000060480428620%21sea%21FR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac5dd7e13%3Bm03_new_user%3A-29895&curPageLogUid=Shro3ee1SgJX&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013181166491%7C_p_origin_prod%3A&gatewayAdapt=usa2pol4itemAdapt) - Hard Shell Case for Steam Frame/Meta Quest 3.
 ------------------
 
 ## Games
