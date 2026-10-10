@@ -10,8 +10,9 @@ A curated list of steam frame compatible software, hardware and more.
     - [Eye Tracking](#eye-tracking)
     - [Controls](#controls)
 - [Guides & Scripts](#guides-and-scripts)
-- [3rd Party Accessories](#3rd-party-accessories)
+- [Accessories](#accessories)
     - [Prescription Lenses](#prescription-lenses)
+    - [Cases](#cases)
 - [Games](#games)
 
 --------------------
@@ -24,6 +25,7 @@ A curated list of steam frame compatible software, hardware and more.
 --------------------
 
 ## Tools
+
 - [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs.
 - [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
 - [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
@@ -38,6 +40,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [PhoneCast VR](https://github.com/bangfireball/Phonecast_VR) - Mirror your phone into VR, check notifications, watch videos with optional phone audio, and interact using your controllers—all while a standalone game runs underneath.
 
 ### Video Playing / Streaming / Recording
+
 - [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
 - [Stream Frame](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
@@ -45,11 +48,13 @@ A curated list of steam frame compatible software, hardware and more.
 - [video2webxr](https://github.com/phit/video2webxr) - Watch YouTube 360°/VR180 videos and videos on other sites in your PC VR headset via WebXR (Chromium extension).
 
 ### Eye Tracking
+
 - [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
 - [vrcft-steam-frame](https://github.com/hakumaguro/vrcft-steam-frame) - Eye tracking for the Steam Frame in VRChat, through VRCFaceTracking (VRCFT): per-eye gaze, real blinks and winks.
 - [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
 
 ### Controls
+
 - [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 - [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
 - [Frame Passthrough Shortcuts](https://github.com/KominoVR/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
@@ -98,6 +103,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Txtcu Quest 3 Case (EU)](https://www.amazon.de/-/en/Txtcu-Quest-Bag-Accessories-Controllers/dp/B0D9S2K8H6?th=1) - Mini Case with hard shell for Quest 3/3S but Steam Frame fits as well.
 - [HMF ODK100 Outdoor Case (EU)](https://www.amazon.com.be/dp/B08K3K5NHY?ref=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&ref_=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&social_share=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&th=1&language=en_GB) - Strong outdoor case with pre-cut foam for cameras. [hagglezon link](https://www.hagglezon.com/en/l/B08K3K5NHY/hmf?utm_campaign=web_share&utm_content=B08K3K5NHY)
 - [JYS-SDM016 Quest 3 Case (AliExpress)](https://pl.aliexpress.com/item/1005013181166491.html?spm=a2g0o.productlist.main.5.2d41618clQpIaA&algo_pvid=b9002be5-aee5-4346-bb50-8c23ff1477f3&algo_exp_id=b9002be5-aee5-4346-bb50-8c23ff1477f3-4&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2145.32%2140.79%21%21%21332.75%21299.49%21%400b884c0217912874664135146e1492%2112000060480428620%21sea%21FR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac5dd7e13%3Bm03_new_user%3A-29895&curPageLogUid=Shro3ee1SgJX&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013181166491%7C_p_origin_prod%3A&gatewayAdapt=usa2pol4itemAdapt) - Hard Shell Case for Steam Frame/Meta Quest 3.
+
 ------------------
 
 ## Games
