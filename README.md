@@ -88,6 +88,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [whisper-frame](https://github.com/groffta/whisper-frame) - On-device push-to-talk voice typing for the Steam Frame.
 - [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
 - [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
+- [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
 
 --------------------
 
