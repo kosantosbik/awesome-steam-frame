@@ -65,6 +65,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [video2webxr](https://github.com/phit/video2webxr) - Watch YouTube 360°/VR180 videos and videos on other sites in your PC VR headset via WebXR (Chromium extension).
 - [Gantry](https://0x5311f56b.itch.io/gantry) - An OpenXR VR video player for Linux. x64 / arm64. Steam Frame native as well as desktop.
 - [Frame Cinema](https://sframelab.itch.io/frame-cinema) - A cinema app for Steam Frame. It plays Netflix, HBO Max and Disney+ on a big screen, with a few different places to watch in.
+- [Pixel VR Player](https://github.com/Pixelplanet/Pixel-VR-Player) - A native VR video player for the Valve Steam Frame, playing flat 2D, 180°, and 360° video (mono and stereoscopic 3D) from local storage and the local network.
+- [StreamXR](https://github.com/FauxxYT/StreamXR) - A browser Extension that allows you to stream video to your VR/AR device.
 
 ### Eye Tracking
 
@@ -124,6 +126,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [HMF ODK100 Outdoor Case (EU)](https://www.amazon.com.be/dp/B08K3K5NHY?ref=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&ref_=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&social_share=cm_sw_r_cso_cp_apan_dp_1MJJBP01JV5TPD8SJK0M&th=1&language=en_GB) - Strong outdoor case with pre-cut foam for cameras. [hagglezon link](https://www.hagglezon.com/en/l/B08K3K5NHY/hmf?utm_campaign=web_share&utm_content=B08K3K5NHY)
 - [Shall Universal Camera Case (EU)](https://amzn.eu/d/0bpvnmbM) - Water, dust and shock proof hard shell case. There is a 3D printable ventilation mod at [makerworld](https://makerworld.com/en/models/3435155-vented-steam-frame-case-badge-with-a-drill-guide#profileId-3916796).
 - [JYS-SDM016 Quest 3 Case (AliExpress)](https://pl.aliexpress.com/item/1005013181166491.html?spm=a2g0o.productlist.main.5.2d41618clQpIaA&algo_pvid=b9002be5-aee5-4346-bb50-8c23ff1477f3&algo_exp_id=b9002be5-aee5-4346-bb50-8c23ff1477f3-4&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2145.32%2140.79%21%21%21332.75%21299.49%21%400b884c0217912874664135146e1492%2112000060480428620%21sea%21FR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac5dd7e13%3Bm03_new_user%3A-29895&curPageLogUid=Shro3ee1SgJX&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013181166491%7C_p_origin_prod%3A&gatewayAdapt=usa2pol4itemAdapt) - Hard Shell Case for Steam Frame/Meta Quest 3.
+- [Storage Bag (AliExpress)](https://pl.aliexpress.com/item/1005013193216681.html?invitationCode=L1NFekRvR2RwejFQSE9WODZkMHZ2RE5tb2Noc1g3b2dLbVJRSE91aHMvTWpmdlBzNkVmWTlBPT0&srcSns=sns_Copy&spreadType=socialShare&social_params=61640083446&bizType=ProductDetail&spreadCode=L1NFekRvR2RwejFQSE9WODZkMHZ2RE5tb2Noc1g3b2dLbVJRSE91aHMvTWpmdlBzNkVmWTlBPT0&aff_fcid=f08e7aa93da74ff8a9ece9dd026e1fb9-1792357709890-06219-_EQrVBqA&tt=MG&aff_fsk=_EQrVBqA&aff_platform=default&sk=_EQrVBqA&aff_trace_key=f08e7aa93da74ff8a9ece9dd026e1fb9-1792357709890-06219-_EQrVBqA&shareId=61640083446&businessType=ProductDetail&platform=AE&terminal_id=0fc43535e4d4474f84257817f1e3d907&afSmartRedirect=y) - Storage bag suitable for Steam Frame VR Dustproof protective storage bag.
 
 ### Printables
 
@@ -132,6 +135,9 @@ A curated list of steam frame compatible software, hardware and more.
 - [DIY Top Strap](https://www.printables.com/model/1861609-steam-frame-diy-top-strap-2-clips-webbing) - 3D printable top strap for the Steam Frame.
 - [Steam Frame Modular Back Clip](https://www.patreon.com/SpanishPotato/posts/steam-frame-back-171534740) - A modular clip for the back of the Steam Frame, which can attach multiple mods onto it like external batteries.
 - [Steam Frame Battery Add On v2](https://makerworld.com/en/models/3430937-steam-frame-battery-add-on-v2#profileId-3911577) - A 3D printable add on for extra battery.
+- [Steam Frame Cross Strap Mod](https://www.printables.com/model/1870209-steam-frame-cross-strap-mod) - A 3D printable head strap that lifts the Steam Frame from the sides.
+- [Steam Frame Head Strap Accessories](https://www.printables.com/model/1877371-steam-frame-head-strap-accessories) - 3 mods in one: Webbing Clip FrontBack, Webbing Clip Sides, Steam Frame Cross Clip.
+- [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
 
 ------------------
 
@@ -141,3 +147,4 @@ A curated list of steam frame compatible software, hardware and more.
 - [Quest2Frame](https://github.com/vesper8/Quest2Frame) - Transfer Quest games to Steam Frame (Original repository was taken down. This is a fork).
 - [Wiicompiled VR Frame](https://github.com/mitch030504/Wiicompiled_VR_Frame) - Wiicompiled OpenXR for steam frame.
 - [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of Dolphin for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
+- [CitraVR-steam-frame](https://github.com/SPD13/CitraVR-steam-frame) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Steam Frame.
