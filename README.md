@@ -56,6 +56,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Rift S Linux](https://github.com/lbgos/rift-s-linux) - Rift S, liberated. No Oculus software, no Windows, no Meta account.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 - [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
+- [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 
 ### Video Playing / Streaming / Recording
 
@@ -112,6 +113,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
 - [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble.
+- [SolidSlime Table Tennis Adapter](https://solidslime.net/product/solidslime-adapter-for-eleven-table-tennis-on-steam-frame/) - An adapter for table tennis games like Eleven Table Tennis VR.
 
 ### Prescription Lenses
 
