@@ -56,6 +56,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Rift S Linux](https://github.com/lbgos/rift-s-linux) - Rift S, liberated. No Oculus software, no Windows, no Meta account.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 - [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
+- [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 
 ### Video Playing / Streaming / Recording
 
