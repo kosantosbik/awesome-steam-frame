@@ -76,6 +76,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [vrcft-steam-frame](https://github.com/hakumaguro/vrcft-steam-frame) - Eye tracking for the Steam Frame in VRChat, through VRCFaceTracking (VRCFT): per-eye gaze, real blinks and winks.
 - [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
 - [QuestLHSync](https://github.com/CreoleVR/QuestLHSync) - Lighthouse trackers and controllers aligned to a rooted Quest's or Steam Frame's own tracking, from its cameras seeing SteamVR base stations.
+- [Babble Frame Runtime](https://github.com/Project-Babble/Babble-Frame-Runtime) - Eye and mouth expression tracking that runs on the Steam Frame itself, sends data straight to VRCFaceTracking (VRCFT): Eye expressions: openness, widen and pupil dilation per eye, Mouth tracking with Babble face tracker, Gaze from the headset's eye service, or SteamVR's combined gaze, Presence: tracking pauses while the headset is off the head (proximity sensor), and the cameras turn off, SteamVR Settings: Turn mouth and eye tracking on and off and set the eye tracking rate.
 
 ### Controls
 
