@@ -57,6 +57,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 - [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
+- [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
 
 ### Video Playing / Streaming / Recording
 
