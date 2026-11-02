@@ -57,7 +57,6 @@ A curated list of steam frame compatible software, hardware and more.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 - [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
-- [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
 
 ### Video Playing / Streaming / Recording
 
@@ -96,6 +95,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
 - [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
 - [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
+- [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
 
 --------------------
 
