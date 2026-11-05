@@ -47,7 +47,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame Fan Control](https://github.com/chaosfox26/frame-fan) - Fan Control for Framey: live readings, presets, custom curves and a graph editor for the Steam Frame, with a stock-cooling fallback. AI-made, unofficial.
 - [openxr-dispatcher-open](https://github.com/Molier/openxr-dispatcher-open) - An open-source, drop-in replacement for the closed OpenXR dispatcher that OVRPort bundles into every converted Quest APK as lib/<abi>/libopenxr_loader.so.
 - [steam-frame-fixes](https://github.com/jareqpl/steam-frame-fixes) - Unofficial Proton and Turnip (Mesa) fixes for Steam Frame that let some games run that don't work out of the box.
-- [Moonlight XR Steam Frame](https://github.com/ajbeavers/moonlight-android-xr-steam-frame) - Moonlight XR running on the Steam Frame through Lepton: 3D game streaming from Sunshine/Apollo.
+- [Moonlight XR for Frame](https://github.com/simplysanatori/moonlight-xr-steam-frame) - Native Arm64 port of Gilleece's Moonlight XR for the Steam Frame, no Lepton needed. Streams games from Sunshine/Apollo with hardware decoding, curved screens, passthrough, rooms and 2D-to-3D.
 - [SleepFrame](https://github.com/isaac-ranger/sleepframe) - A sleep-sound program for the Steam Frame.
 - [Frametanium](https://github.com/Cogential/frametanium) - Installs and updates Steam Frame apps and ports from GitHub releases, like Obtainium.
 - [frame-jp-keyboard](https://github.com/sasaken1102r/frame-jp-keyboard) - Japanese flick keyboard for Steam Frame.
