@@ -154,3 +154,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [Wiicompiled VR Frame](https://github.com/mitch030504/Wiicompiled_VR_Frame) - Wiicompiled OpenXR for steam frame.
 - [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of Dolphin for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
 - [CitraVR-steam-frame](https://github.com/SPD13/CitraVR-steam-frame) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Steam Frame.
+- [GalaxyFrame](https://github.com/simplysanatori/GalaxyFrame) - bigmak94's GalaxyQuest (Super Mario Galaxy VR) ported to run natively on the Steam Frame as a Linux Arm64 build, with a Vulkan renderer for 120 Hz. Bring your own disc.
+- [PrimedFrame](https://github.com/simplysanatori/PrimedFrame) - Nobbie248's PrimedGun (Metroid Prime VR) ported to run natively on the Steam Frame as a Linux Arm64 build, with frame pacing for the Frame. Bring your own disc.
+- [KartFrame](https://github.com/simplysanatori/KartFrame) - heurazy's Wiicompiled VR PLUS (Mario Kart Wii VR) ported to run natively on the Steam Frame as a Linux Arm64 build at 90 Hz. Built on the Frame from your own disc.
+- [OpenFrame](https://github.com/simplysanatori/OpenFrame) - A Steam Frame fork of OpenH1 (Halo: Combat Evolved VR, native Arm64) with recentring fixes, faster loads, Frame controls and settings tuned for 90 Hz. Needs the maps from your own Xbox disc.
+- [LegendFrame](https://github.com/simplysanatori/LegendFrame) - RototRobot's TRLVR (Tomb Raider: Legend VR) with a single-pass stereo rewrite and Frame controls, so it holds the headset's refresh rate under Proton. Needs the Steam version of the game.
