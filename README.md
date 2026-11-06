@@ -69,6 +69,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame Cinema](https://sframelab.itch.io/frame-cinema) - A cinema app for Steam Frame. It plays Netflix, HBO Max and Disney+ on a big screen, with a few different places to watch in.
 - [Pixel VR Player](https://github.com/Pixelplanet/Pixel-VR-Player) - A native VR video player for the Valve Steam Frame, playing flat 2D, 180°, and 360° video (mono and stereoscopic 3D) from local storage and the local network.
 - [StreamXR](https://github.com/FauxxYT/StreamXR) - A browser Extension that allows you to stream video to your VR/AR device.
+- [FramePlayerX](https://github.com/remotesojourner/frameplayerx) - A VR video player for the Valve Steam Frame. It plays flat, 180°, 360° and fisheye videos, in 2D or 3D, from the headset, a microSD card, a USB drive or a media server. It runs natively on the headset.
 
 ### Eye Tracking
 
