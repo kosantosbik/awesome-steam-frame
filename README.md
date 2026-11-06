@@ -11,7 +11,7 @@ A curated list of steam frame compatible software, hardware and more.
     - [Controls](#controls)
     - [Eye Tracking](#eye-tracking)
     - [General](#general)
-    - [Keyboard/Mouse](#keyboard/mouse)
+    - [Keyboard/Mouse](#keyboard--mouse)
     - [Management](#management)
     - [Performance](#performance)
     - [Resource Trackers](#resource-trackers)
