@@ -146,6 +146,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Cross Strap Mod](https://www.printables.com/model/1870209-steam-frame-cross-strap-mod) - A 3D printable head strap that lifts the Steam Frame from the sides.
 - [Steam Frame Head Strap Accessories](https://www.printables.com/model/1877371-steam-frame-head-strap-accessories) - 3 mods in one: Webbing Clip FrontBack, Webbing Clip Sides, Steam Frame Cross Clip.
 - [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
+- [Deeper Face Spacer for Steam Frame (8 mm)](https://www.printables.com/model/1903322-deeper-face-spacer-for-steam-frame-8-mm) - A 3D printable deper face spacer for Steam Frame. Includes magnets.
 
 ------------------
 
