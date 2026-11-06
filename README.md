@@ -96,6 +96,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
 - [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
 - [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
+- [UTMTFTM](https://github.com/RxVreality/UTMTFTM) - Easy hand offsets for SteamVR: grab your in-game hand with your other hand and put it where it belongs, live in the game. Runs on the Frame itself, or on Windows for PC VR.
 
 --------------------
 
