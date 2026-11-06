@@ -14,6 +14,8 @@ A curated list of steam frame compatible software, hardware and more.
     - [Prescription Lenses](#prescription-lenses)
     - [Cases](#cases)
     - [Printables](#printables)
+        - [Headset](#headset)
+        - [Controllers](#controllers)
 - [Games](#games)
 
 --------------------
@@ -143,19 +145,25 @@ A curated list of steam frame compatible software, hardware and more.
 
 ### Printables
 
+#### Headset
+
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
-- [Steam Frame Controllers Gamepad Coupler](https://makerworld.com/en/models/3404888-steam-frame-controllers-gamepad-coupler#profileId-3877306) - 3D printable Steam Frame controller adapter that merges two controller into one.
 - [DIY Top Strap](https://www.printables.com/model/1861609-steam-frame-diy-top-strap-2-clips-webbing) - 3D printable top strap for the Steam Frame.
 - [Steam Frame Modular Back Clip](https://www.patreon.com/SpanishPotato/posts/steam-frame-back-171534740) - A modular clip for the back of the Steam Frame, which can attach multiple mods onto it like external batteries.
 - [Steam Frame Battery Add On v2](https://makerworld.com/en/models/3430937-steam-frame-battery-add-on-v2#profileId-3911577) - A 3D printable add on for extra battery.
 - [Steam Frame Cross Strap Mod](https://www.printables.com/model/1870209-steam-frame-cross-strap-mod) - A 3D printable head strap that lifts the Steam Frame from the sides.
 - [Steam Frame Head Strap Accessories](https://www.printables.com/model/1877371-steam-frame-head-strap-accessories) - 3 mods in one: Webbing Clip FrontBack, Webbing Clip Sides, Steam Frame Cross Clip.
-- [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
-- [Spigen Straps Ergonomics Kit Key](https://www.printables.com/model/1875894-13mm-narrow-steam-frame-ergonomics-kit-controller) - A narrower version of the controller key. 13mm wide loop, to fit the Spigen hand strap kit.
 - [Deeper Face Spacer for Steam Frame (8 mm)](https://www.printables.com/model/1903322-deeper-face-spacer-for-steam-frame-8-mm) - A 3D printable deper face spacer for Steam Frame. Includes magnets.
 - [Steam Frame Audio Enhancer Mod](https://www.printables.com/model/1888952-speaker-waveguide-audio-enhancer-for-steam-frame) - A 3D printable mod for fixing the direction of Steam Frame speakers.
-- [Ancillary Steam Frame Strap Mod](https://www.printables.com/model/1871400-ancillary-steam-frame-controller-strap-mod-50-offi) - A strap mod with official cad data + reinforced injection molding design to improve 3d printability.
 - [Parametric Ugreen Dongle Holder](https://www.printables.com/model/1882170-parametric-ugreen-dongle-holder-for-steam-frame) - A small adapter allowing you to use a Ugreen dock on a frame, the dock easily clips in and still allows for a headstrap.
+
+#### Controllers
+
+- [Steam Frame Controllers Gamepad Coupler](https://makerworld.com/en/models/3404888-steam-frame-controllers-gamepad-coupler#profileId-3877306) - 3D printable Steam Frame controller adapter that merges two controller into one.
+- [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
+- [Spigen Straps Ergonomics Kit Key](https://www.printables.com/model/1875894-13mm-narrow-steam-frame-ergonomics-kit-controller) - A narrower version of the controller key. 13mm wide loop, to fit the Spigen hand strap kit.
+- [Ancillary Steam Frame Strap Mod](https://www.printables.com/model/1871400-ancillary-steam-frame-controller-strap-mod-50-offi) - A strap mod with official cad data + reinforced injection molding design to improve 3d printability.
+
 
 ------------------
 
