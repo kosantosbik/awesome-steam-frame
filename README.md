@@ -75,6 +75,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [openxr-dispatcher-open](https://github.com/Molier/openxr-dispatcher-open) - An open-source, drop-in replacement for the closed OpenXR dispatcher that OVRPort bundles into every converted Quest APK as lib/<abi>/libopenxr_loader.so.
 - [steam-frame-fixes](https://github.com/jareqpl/steam-frame-fixes) - Unofficial Proton and Turnip (Mesa) fixes for Steam Frame that let some games run that don't work out of the box.
 - [Moonlight XR Steam Frame](https://github.com/ajbeavers/moonlight-android-xr-steam-frame) - Moonlight XR running on the Steam Frame through Lepton: 3D game streaming from Sunshine/Apollo.
+- [Moonlight XR for Frame](https://github.com/simplysanatori/moonlight-xr-steam-frame) - Native Arm64 port of Gilleece's Moonlight XR for the Steam Frame, no Lepton needed. Streams games from Sunshine/Apollo with hardware decoding, curved screens, passthrough, rooms and 2D-to-3D.
 - [SleepFrame](https://github.com/isaac-ranger/sleepframe) - A sleep-sound program for the Steam Frame.
 - [Rift S Linux](https://github.com/lbgos/rift-s-linux) - Rift S, liberated. No Oculus software, no Windows, no Meta account.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
