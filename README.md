@@ -11,7 +11,7 @@ A curated list of steam frame compatible software, hardware and more.
     - [Controls](#controls)
     - [Eye Tracking](#eye-tracking)
     - [General](#general)
-    - [Keyboard/Mouse](#keyboardsmouse)
+    - [Keyboard/Mouse](#keyboardmouse)
     - [Management](#management)
     - [Performance](#performance)
     - [Resource Trackers](#resource-trackers)
@@ -82,7 +82,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 
-### Keyboards/Mouse
+### Keyboard/Mouse
 
 - [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
 - [frame-jp-keyboard](https://github.com/sasaken1102r/frame-jp-keyboard) - Japanese flick keyboard for Steam Frame.
