@@ -57,6 +57,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 - [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
+- [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 
 ### Video Playing / Streaming / Recording
 
@@ -98,6 +99,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
 - [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
 - [UTMTFTM](https://github.com/RxVreality/UTMTFTM) - Easy hand offsets for SteamVR: grab your in-game hand with your other hand and put it where it belongs, live in the game. Runs on the Frame itself, or on Windows for PC VR.
+- [Steam Frame Full Keyboard](https://github.com/TaiKeid/steam-frame-full-keyboard) - A full-size alternative to Steam Frame's built-in virtual keyboard, made for everyday use on the headset.
 
 --------------------
 
@@ -112,6 +114,7 @@ A curated list of steam frame compatible software, hardware and more.
 ## Accessories
 
 - [Official Steam Frame CAD Files](https://gitlab.steamos.cloud/SteamHardware/SteamFrame) - Public Steam Frame CAD and electrical references.
+- [Official Arcturus Vision CAD Files](https://arcturus.vision/developers) - Official guides, samples, and resources for developers building with the Arcturus Vision Camera.
 - [Arcturus Vision Camera](https://arcturus.vision/) - 5K HDR color passthrough and more for Steam Frame.
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame. (NOTE: These are known to cover some of the tracking IR thus degrading the tracking, especially the finger tracking.)
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
@@ -126,6 +129,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [WIDMOvr Prescription Lenses](https://widmovr.com/product/steam-frame-prescription-lens-adapters/)
 - [AMVR Prescription Lenses](https://www.amvrshop.com/products/amvr-nl2-prescription-lenses-steam-frame)
 - [VR-Rock Prescription Lenses](https://www.vr-rock.com/products/steam-frame-prescription-lenses)
+- [HONSVR Prescription Lenses](https://honsvr.com/product/custom-steam-frame-prescription-lenses-by-honsvr/)
 
 ### Cases
 
@@ -135,6 +139,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Shall Universal Camera Case (EU)](https://amzn.eu/d/0bpvnmbM) - Water, dust and shock proof hard shell case. There is a 3D printable ventilation mod at [makerworld](https://makerworld.com/en/models/3435155-vented-steam-frame-case-badge-with-a-drill-guide#profileId-3916796).
 - [JYS-SDM016 Quest 3 Case (AliExpress)](https://www.aliexpress.com/item/1005013181166491.html) - Hard Shell Case for Steam Frame/Meta Quest 3.
 - [Storage Bag (AliExpress)](https://www.aliexpress.com/item/1005013193216681.html) - Storage bag suitable for Steam Frame VR Dustproof protective storage bag.
+- [Venom Carry Headset (UK)](https://amzn.eu/d/0hHUysj0) - A compact case that can fit Steam Frame Headset and controllers.
 
 ### Printables
 
@@ -146,14 +151,20 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Cross Strap Mod](https://www.printables.com/model/1870209-steam-frame-cross-strap-mod) - A 3D printable head strap that lifts the Steam Frame from the sides.
 - [Steam Frame Head Strap Accessories](https://www.printables.com/model/1877371-steam-frame-head-strap-accessories) - 3 mods in one: Webbing Clip FrontBack, Webbing Clip Sides, Steam Frame Cross Clip.
 - [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
+- [Spigen Straps Ergonomics Kit Key](https://www.printables.com/model/1875894-13mm-narrow-steam-frame-ergonomics-kit-controller) - A narrower version of the controller key. 13mm wide loop, to fit the Spigen hand strap kit.
 - [Deeper Face Spacer for Steam Frame (8 mm)](https://www.printables.com/model/1903322-deeper-face-spacer-for-steam-frame-8-mm) - A 3D printable deper face spacer for Steam Frame. Includes magnets.
+- [Steam Frame Audio Enhancer Mod](https://www.printables.com/model/1888952-speaker-waveguide-audio-enhancer-for-steam-frame) - A 3D printable mod for fixing the direction of Steam Frame speakers.
+- [Ancillary Steam Frame Strap Mod](https://www.printables.com/model/1871400-ancillary-steam-frame-controller-strap-mod-50-offi) - A strap mod with official cad data + reinforced injection molding design to improve 3d printability.
+- [Parametric Ugreen Dongle Holder](https://www.printables.com/model/1882170-parametric-ugreen-dongle-holder-for-steam-frame) - A small adapter allowing you to use a Ugreen dock on a frame, the dock easily clips in and still allows for a headstrap.
 
 ------------------
 
-## Games
+## Gaming
 
 - [FramePort](https://github.com/spoopyghosty0/frameport) - Port games to work with the Steam Frame.
 - [Quest2Frame](https://github.com/vesper8/Quest2Frame) - Transfer Quest games to Steam Frame (Original repository was taken down. This is a fork).
 - [Wiicompiled VR Frame](https://github.com/mitch030504/Wiicompiled_VR_Frame) - Wiicompiled OpenXR for steam frame.
-- [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of Dolphin for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
+- [dolphinXR](https://github.com/iChris4/dolphinXR) - A GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR.
+- [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of DolphinXR for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
 - [CitraVR-steam-frame](https://github.com/SPD13/CitraVR-steam-frame) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Steam Frame.
+- [Venture](https://github.com/Villagers654/Venture) - A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.
