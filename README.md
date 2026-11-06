@@ -4,14 +4,14 @@ A curated list of steam frame compatible software, hardware and more.
 
 ## Table of contents
 
-- [Emulation Layers](#emulation)
+- [Emulation Layers](#emulation-layers)
 - [Tools](#tools)
     - [Calibration](#calibration)
-    - [Compnaion Apps](#companion-apps)
+    - [Companion Apps](#companion-apps)
     - [Controls](#controls)
     - [Eye Tracking](#eye-tracking)
     - [General](#general)
-    - [Keyboard/Mouse](#keyboard--mouse)
+    - [Keyboards/Mouse](#keyboardsmouse)
     - [Management](#management)
     - [Performance](#performance)
     - [Resource Trackers](#resource-trackers)
@@ -19,7 +19,7 @@ A curated list of steam frame compatible software, hardware and more.
     - [Visual](#visual)
     - [Video Playing / Streaming / Recording](#video-playing--streaming--recording)
     - [Voice Control](#voice-control)
-- [Guides & Scripts](#guides-and-scripts)
+- [Guides & Scripts](#guides--scripts)
 - [Accessories](#accessories)
     - [Prescription Lenses](#prescription-lenses)
     - [Cases](#cases)
