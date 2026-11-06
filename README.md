@@ -6,9 +6,19 @@ A curated list of steam frame compatible software, hardware and more.
 
 - [Emulation Layers](#emulation)
 - [Tools](#tools)
-    - [Video Playing / Streaming / Recording](#video-playing--streaming--recording)
-    - [Eye Tracking](#eye-tracking)
+    - [Calibration](#calibration)
+    - [Compnaion Apps](#companion-apps)
     - [Controls](#controls)
+    - [Eye Tracking](#eye-tracking)
+    - [General](#general)
+    - [Keyboard/Mouse](#keyboard/mouse)
+    - [Management](#management)
+    - [Performance](#performance)
+    - [Resource Trackers](#resource-trackers)
+    - [Screen Mirroring](#screen-mirroring)
+    - [Visual](#visual)
+    - [Video Playing / Streaming / Recording](#video-playing--streaming--recording)
+    - [Voice Control](#voice-control)
 - [Guides & Scripts](#guides-and-scripts)
 - [Accessories](#accessories)
     - [Prescription Lenses](#prescription-lenses)
@@ -16,7 +26,7 @@ A curated list of steam frame compatible software, hardware and more.
     - [Printables](#printables)
         - [Headset](#headset)
         - [Controllers](#controllers)
-- [Games](#games)
+- [Gaming](#gaming)
 
 --------------------
 
@@ -29,37 +39,88 @@ A curated list of steam frame compatible software, hardware and more.
 
 ## Tools
 
-- [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs.
-- [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
-- [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
-- [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
+### Calibration
+
+- [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
+- [UTMTFTM](https://github.com/RxVreality/UTMTFTM) - Easy hand offsets for SteamVR: grab your in-game hand with your other hand and put it where it belongs, live in the game. Runs on the Frame itself, or on Windows for PC VR.
+
+### Companion Apps
+
 - [FrameMate](https://github.com/nailuj05/framemate) - A companion app for the Steam Frame: mirror the headset to your phone, keep an eye on battery, controllers, downloads and what's playing.
+- [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
+
+### Controls
+
+- [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
+- [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
+- [Frame Passthrough Shortcuts](https://github.com/KominoVR/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
+- [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
+- [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
+- [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
+
+### Eye Tracking
+
+- [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
+- [vrcft-steam-frame](https://github.com/hakumaguro/vrcft-steam-frame) - Eye tracking for the Steam Frame in VRChat, through VRCFaceTracking (VRCFT): per-eye gaze, real blinks and winks.
+- [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
+- [QuestLHSync](https://github.com/CreoleVR/QuestLHSync) - Lighthouse trackers and controllers aligned to a rooted Quest's or Steam Frame's own tracking, from its cameras seeing SteamVR base stations.
+- [Babble Frame Runtime](https://github.com/Project-Babble/Babble-Frame-Runtime) - Eye and mouth expression tracking that runs on the Steam Frame itself, sends data straight to VRCFaceTracking (VRCFT): Eye expressions: openness, widen and pupil dilation per eye, Mouth tracking with Babble face tracker, Gaze from the headset's eye service, or SteamVR's combined gaze, Presence: tracking pauses while the headset is off the head (proximity sensor), and the cameras turn off, SteamVR Settings: Turn mouth and eye tracking on and off and set the eye tracking rate.
+
+### General
+
+- [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs. Official from Valve team.
 - [petplay](https://github.com/goodpuppies/petplay) - PErsonal Terminal Project overLAY.
 - [Chromium WebXR](https://github.com/saphid/chromium-webxr-steam-frame) - Chromium with immersive WebXR on the Steam Frame: build script, SteamVR fix, and a Steam library installer.
-- [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
 - [ovrplugin-openxr-shim](https://github.com/daniel-lynch/ovrplugin-openxr-shim) - An independent OpenXR reimplementation of Meta's OVRPlugin ABI, so VrApi-era Quest VR titles can run on non-Meta OpenXR runtimes (Monado, Steam Frame). Interoperability — original code only.
-- [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
-- [LiquidAss-Frame](https://github.com/MichaelScottsman/LiquidAss-Frame) - Liquid glass theme and virtual music player for Steam Frame.
-- [PhoneCast VR](https://github.com/bangfireball/Phonecast_VR) - Mirror your phone into VR, check notifications, watch videos with optional phone audio, and interact using your controllers—all while a standalone game runs underneath.
-- [steam-frame-nix](https://github.com/lhns/steam-frame-nix) - Home Manager modules with fixes and tweaks for the Valve Steam Frame (SteamOS).
-- [Frameloader](https://github.com/travelerdev/frameloader) - Drag-and-drop implementation of the Valve APK and Linux sideloader written in Electron for multi-platform support.
-- [Steam Hardware Watch](https://github.com/seanbetts/steam-hardware-watch) - Agent-first watcher for Steam Controller, Steam Machine, and Steam Frame launch signals across Komodo, SteamDB, SteamTracking, and Valve endpoints.
-- [Framey](https://github.com/chaosfox26/framey) - An unofficial lightweight plugin loader for the Steam Frame. Install it with the Framey App. AI-made by ChaosFox, inspired by Decky Loader.
-- [Framey App](https://github.com/chaosfox26/framey-app) - Framey App: native Windows, Linux and macOS installer that sets up Framey and Fan Control on a Steam Frame over SSH. AI-made, unofficial.
-- [Frame Fan Control](https://github.com/chaosfox26/frame-fan) - Fan Control for Framey: live readings, presets, custom curves and a graph editor for the Steam Frame, with a stock-cooling fallback. AI-made, unofficial.
 - [openxr-dispatcher-open](https://github.com/Molier/openxr-dispatcher-open) - An open-source, drop-in replacement for the closed OpenXR dispatcher that OVRPort bundles into every converted Quest APK as lib/<abi>/libopenxr_loader.so.
 - [steam-frame-fixes](https://github.com/jareqpl/steam-frame-fixes) - Unofficial Proton and Turnip (Mesa) fixes for Steam Frame that let some games run that don't work out of the box.
 - [Moonlight XR Steam Frame](https://github.com/ajbeavers/moonlight-android-xr-steam-frame) - Moonlight XR running on the Steam Frame through Lepton: 3D game streaming from Sunshine/Apollo.
 - [SleepFrame](https://github.com/isaac-ranger/sleepframe) - A sleep-sound program for the Steam Frame.
-- [Frametanium](https://github.com/Cogential/frametanium) - Installs and updates Steam Frame apps and ports from GitHub releases, like Obtainium.
-- [frame-jp-keyboard](https://github.com/sasaken1102r/frame-jp-keyboard) - Japanese flick keyboard for Steam Frame.
-- [framely](https://github.com/SteamFramelyHomebrew/framely) - A unified spatial launcher for Steam Frame and a management panel available both inside the headset and in a PC browser.
-- [HEV Power Level SFX](https://github.com/royal32/Frame-HEV-Power-Level-SFX) - Double-tap your Steam Frame's power button to hear “Power level is … percent” in the original Half-Life HEV suit voice.
 - [Rift S Linux](https://github.com/lbgos/rift-s-linux) - Rift S, liberated. No Oculus software, no Windows, no Meta account.
 - [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
-- [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
+- [Steam Frame Dictation](https://github.com/khvn26/steam-frame-dictation) - Offline dictation on the Steam Frame.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
+
+### Keyboards/Mouse
+
+- [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
+- [frame-jp-keyboard](https://github.com/sasaken1102r/frame-jp-keyboard) - Japanese flick keyboard for Steam Frame.
+- [Steam Frame Full Keyboard](https://github.com/TaiKeid/steam-frame-full-keyboard) - A full-size alternative to Steam Frame's built-in virtual keyboard, made for everyday use on the headset.
+
+### Management
+
+- [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
+- [steam-frame-nix](https://github.com/lhns/steam-frame-nix) - Home Manager modules with fixes and tweaks for the Valve Steam Frame (SteamOS).
+- [Frameloader](https://github.com/travelerdev/frameloader) - Drag-and-drop implementation of the Valve APK and Linux sideloader written in Electron for multi-platform support.
+- [Framey](https://github.com/chaosfox26/framey) - An unofficial lightweight plugin loader for the Steam Frame. Install it with the Framey App. AI-made by ChaosFox, inspired by Decky Loader.
+- [Framey App](https://github.com/chaosfox26/framey-app) - Framey App: native Windows, Linux and macOS installer that sets up Framey and Fan Control on a Steam Frame over SSH. AI-made, unofficial.
+- [Frametanium](https://github.com/Cogential/frametanium) - Installs and updates Steam Frame apps and ports from GitHub releases, like Obtainium.
+- [framely](https://github.com/SteamFramelyHomebrew/framely) - A unified spatial launcher for Steam Frame and a management panel available both inside the headset and in a PC browser.
+- [VR Mod Vibecoding Wizard](https://github.com/bigbossafman/VR-Mod-Vibecoding-Wizard) - Turn a flat PC game into a full VR mod: 6DoF, motion controls, physics hands, holsters, reloads, IK body, in-VR settings menu. A Claude skill that interviews you, plans the build, and tracks bugs.
+
+### Performance
+
+- [Frame Fan Control](https://github.com/chaosfox26/frame-fan) - Fan Control for Framey: live readings, presets, custom curves and a graph editor for the Steam Frame, with a stock-cooling fallback. AI-made, unofficial.
+- [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
+- [HEV Power Level SFX](https://github.com/royal32/Frame-HEV-Power-Level-SFX) - Double-tap your Steam Frame's power button to hear “Power level is … percent” in the original Half-Life HEV suit voice.
+
+### Resource Trackers
+
+- [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
+- [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
+- [Steam Hardware Watch](https://github.com/seanbetts/steam-hardware-watch) - Agent-first watcher for Steam Controller, Steam Machine, and Steam Frame launch signals across Komodo, SteamDB, SteamTracking, and Valve endpoints.
+
+### Screen Mirroring
+
+- [scrcpy4Frame](https://github.com/xhuytox/scrcpy4Frame) - A VR wrapper around [scrcpy](https://github.com/Genymobile/scrcpy). Wirelessly mirror your Android device into VR.
+- [PhoneCast VR](https://github.com/bangfireball/Phonecast_VR) - Mirror your phone into VR, check notifications, watch videos with optional phone audio, and interact using your controllers—all while a standalone game runs underneath.
+
+### Visual
+
+- [frame-autopass](https://github.com/bod09/frame-autopass) - Automatic colour/IR passthrough switching for the Steam Frame with the Arcturus Vision colour module.
+- [LiquidAss-Frame](https://github.com/MichaelScottsman/LiquidAss-Frame) - Liquid glass theme and virtual music player for Steam Frame.
+- [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
 
 ### Video Playing / Streaming / Recording
 
@@ -74,34 +135,12 @@ A curated list of steam frame compatible software, hardware and more.
 - [StreamXR](https://github.com/FauxxYT/StreamXR) - A browser Extension that allows you to stream video to your VR/AR device.
 - [FramePlayerX](https://github.com/remotesojourner/frameplayerx) - A VR video player for the Valve Steam Frame. It plays flat, 180°, 360° and fisheye videos, in 2D or 3D, from the headset, a microSD card, a USB drive or a media server. It runs natively on the headset.
 
-### Eye Tracking
+### Voice Control
 
-- [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
-- [vrcft-steam-frame](https://github.com/hakumaguro/vrcft-steam-frame) - Eye tracking for the Steam Frame in VRChat, through VRCFaceTracking (VRCFT): per-eye gaze, real blinks and winks.
-- [FrameEye Helper](https://github.com/miyu0-bit/frameeye-helper) - Installs frameeyeosc on your Steam Frame for you, so you get eye tracking in VRChat without the terminal stuff.
-- [QuestLHSync](https://github.com/CreoleVR/QuestLHSync) - Lighthouse trackers and controllers aligned to a rooted Quest's or Steam Frame's own tracking, from its cameras seeing SteamVR base stations.
-- [Babble Frame Runtime](https://github.com/Project-Babble/Babble-Frame-Runtime) - Eye and mouth expression tracking that runs on the Steam Frame itself, sends data straight to VRCFaceTracking (VRCFT): Eye expressions: openness, widen and pupil dilation per eye, Mouth tracking with Babble face tracker, Gaze from the headset's eye service, or SteamVR's combined gaze, Presence: tracking pauses while the headset is off the head (proximity sensor), and the cameras turn off, SteamVR Settings: Turn mouth and eye tracking on and off and set the eye tracking rate.
-
-### Controls
-
-- [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
-- [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
-- [Frame Passthrough Shortcuts](https://github.com/KominoVR/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
-- [Frame Color](https://github.com/beko-kerbecotton/framecolor) - FrameColor lets you adjust the Steam Frame's display colors from the SteamVR dashboard inside the headset.
-- [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
-- [Frame Control](https://github.com/saphid/frame-control) - Frame Control: a free, open-source app for Valve Steam Frame on macOS, Windows, Linux and iPhone. View the headset, install games and apps, transfer files, and manage your Frame.
 - [FrameYap](https://github.com/baketnk/frame-yap) - On-device voice typing for Steam Frame: hold a button, speak, review, type. Local speech recognition, no cloud.
-- [frame-unboundedMouse-vibed](https://github.com/Andalu30/frame-unboundedMouse-vibed) - An experimental steamvr driver to control the laser pointer of Steam Frame with a mouse.
-- [fuelCell](https://github.com/juanramosjr1/frame-voice) - Speak into any text box on your Steam Frame: the Steam store search, a browser, Discord. It also gives you easy Copy, Paste and Select all using your controllers.
-- [Steam Frame Dictation](https://github.com/khvn26/steam-frame-dictation) - Offline dictation on the Steam Frame.
 - [frame-voice](https://github.com/techieyann/frame-voice) - Voice dictation for Steam Frame. Speak into a text field using your controllers, without a keyboard or an always-on microphone.
+- [fuelCell](https://github.com/juanramosjr1/frame-voice) - Speak into any text box on your Steam Frame: the Steam store search, a browser, Discord. It also gives you easy Copy, Paste and Select all using your controllers.
 - [whisper-frame](https://github.com/groffta/whisper-frame) - On-device push-to-talk voice typing for the Steam Frame.
-- [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
-- [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
-- [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
-- [FrameLaunchManager](https://gitlab.com/jamesjadler/frame-launch-manager) - A convient way to manage the Launch Program list for installed apps and custom scripts
-- [UTMTFTM](https://github.com/RxVreality/UTMTFTM) - Easy hand offsets for SteamVR: grab your in-game hand with your other hand and put it where it belongs, live in the game. Runs on the Frame itself, or on Windows for PC VR.
-- [Steam Frame Full Keyboard](https://github.com/TaiKeid/steam-frame-full-keyboard) - A full-size alternative to Steam Frame's built-in virtual keyboard, made for everyday use on the headset.
 
 --------------------
 
@@ -163,7 +202,6 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Controller Battery Door with Loop](https://www.printables.com/model/1875832-steam-frame-controller-battery-door-with-loop) - A 3D printable version of the Steam Frame controller battery door with the ability to loop a strap with it.
 - [Spigen Straps Ergonomics Kit Key](https://www.printables.com/model/1875894-13mm-narrow-steam-frame-ergonomics-kit-controller) - A narrower version of the controller key. 13mm wide loop, to fit the Spigen hand strap kit.
 - [Ancillary Steam Frame Strap Mod](https://www.printables.com/model/1871400-ancillary-steam-frame-controller-strap-mod-50-offi) - A strap mod with official cad data + reinforced injection molding design to improve 3d printability.
-
 
 ------------------
 
