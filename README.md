@@ -214,4 +214,5 @@ A curated list of steam frame compatible software, hardware and more.
 - [dolphinXR](https://github.com/iChris4/dolphinXR) - A GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR.
 - [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of DolphinXR for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
 - [CitraVR-steam-frame](https://github.com/SPD13/CitraVR-steam-frame) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Steam Frame.
+- [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame) - Native Arm64 Azahar (3DS) with CitraVR's VR modes for the Steam Frame, no Lepton needed. Quality-of-life improvements and lower CPU and GPU load for better battery life.
 - [Venture](https://github.com/Villagers654/Venture) - A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.
