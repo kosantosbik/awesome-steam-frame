@@ -126,6 +126,7 @@ A curated list of steam frame compatible software, hardware and more.
 ### Video Playing / Streaming / Recording
 
 - [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
+- [Frame-Audio-Mixer](https://frame-audio-mixer.marcus-universe.com/) - Lets you create multiple audio channels and mixes on the Steam Frame or over the wireless stream to your PC.
 - [Stream Frame](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
@@ -143,7 +144,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [frame-voice](https://github.com/techieyann/frame-voice) - Voice dictation for Steam Frame. Speak into a text field using your controllers, without a keyboard or an always-on microphone.
 - [fuelCell](https://github.com/juanramosjr1/frame-voice) - Speak into any text box on your Steam Frame: the Steam store search, a browser, Discord. It also gives you easy Copy, Paste and Select all using your controllers.
 - [whisper-frame](https://github.com/groffta/whisper-frame) - On-device push-to-talk voice typing for the Steam Frame.
-- [Frame-Audio-Mixer](https://frame-audio-mixer.marcus-universe.com/) - Lets you create multiple audio channels and mixes on the Steam Frame or over the wireless stream to your PC.
+
 
 --------------------
 
