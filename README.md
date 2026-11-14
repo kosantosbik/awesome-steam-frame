@@ -43,6 +43,7 @@ A curated list of steam frame compatible software, hardware and more.
 
 - [Space Calibrator](https://store.steampowered.com/app/3368750/Space_Calibrator/) - Use tracked VR devices from one company with any other. [Source](https://github.com/hyblocker/OpenVR-SpaceCalibrator)
 - [UTMTFTM](https://github.com/RxVreality/UTMTFTM) - Easy hand offsets for SteamVR: grab your in-game hand with your other hand and put it where it belongs, live in the game. Runs on the Frame itself, or on Windows for PC VR.
+- [Frame-EyeCal](https://github.com/Shark1nat0r/frame-eyecal) - Eye tracking calibration and accuracy test for the Steam Frame.
 
 ### Companion Apps
 
@@ -57,6 +58,9 @@ A curated list of steam frame compatible software, hardware and more.
 - [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
 - [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
 - [KnockThru](https://github.com/VioletTides/KnockThru) - Knock twice to turn Steam Frame passthrough on or off, and three times to switch between translucent and opaque, with no button presses. Knock the controllers together, on a table, or on the headset.
+- [Frame Monado](https://github.com/konsti219/frame-monado) - [Monado](https://monado.freedesktop.org/), the open source OpenXR runtime, running natively on the Valve Steam Frame in place of SteamVR.
+- [Frame shell](https://github.com/konsti219/frame-shell) - A standalone shell for the Valve Steam Frame, running on Frame Monado instead of SteamVR, built from [WayVR](https://github.com/wayvr-org/wayvr) and [WiVRn](https://github.com/WiVRn/WiVRn).
+- [Frame Dock](https://github.com/guix8/framedock) - Performance HUD, colour correction, in-game dock, browser panel and device controls for the Steam Frame (SteamVR overlay).
 
 ### Eye Tracking
 
@@ -111,6 +115,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
 - [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
 - [Steam Hardware Watch](https://github.com/seanbetts/steam-hardware-watch) - Agent-first watcher for Steam Controller, Steam Machine, and Steam Frame launch signals across Komodo, SteamDB, SteamTracking, and Valve endpoints.
+- [SteamFrame-Tools](https://github.com/joshmanpro79-create/SteamFrame-Tools) - A collection of open source tools for the Steam Frame.
 
 ### Screen Mirroring
 
@@ -162,7 +167,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame. (NOTE: These are known to cover some of the tracking IR thus degrading the tracking, especially the finger tracking.)
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
-- [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble.
+- [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble. Also available as DIY [source](https://github.com/Project-Babble/ProjectBabble).
 - [SolidSlime Table Tennis Adapter](https://solidslime.net/product/solidslime-adapter-for-eleven-table-tennis-on-steam-frame/) - An adapter for table tennis games like Eleven Table Tennis VR.
 
 ### Prescription Lenses
