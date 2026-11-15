@@ -86,6 +86,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Dictation](https://github.com/khvn26/steam-frame-dictation) - Offline dictation on the Steam Frame.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
+- [FrameComfort](https://github.com/alexandresanchograca/steam-frame-comfort) - Standalone dynamic FOV vignette with rest-frame snapshots for locomotion comfort. Works in local and streamed games.
 
 ### Keyboard/Mouse
 
