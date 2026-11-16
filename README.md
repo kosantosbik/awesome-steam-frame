@@ -172,6 +172,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
 - [Babble Mouth Tracker Pro](https://babble.diy/store/babble-tracker-pro/) - Face/mouth tracker by Project Babble. Also available as DIY [source](https://github.com/Project-Babble/ProjectBabble).
 - [SolidSlime Table Tennis Adapter](https://solidslime.net/product/solidslime-adapter-for-eleven-table-tennis-on-steam-frame/) - An adapter for table tennis games like Eleven Table Tennis VR.
+- [VR Headset Stand Desk or Wall Mount](https://www.etsy.com/listing/4593486035/steam-frame-magnetic-charging-stand-for)- Stand for Steam Frame, controllers, lens protection and optional magnetic charging. Mountable to a desk or wall.
 
 ### Prescription Lenses
 
