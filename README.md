@@ -63,6 +63,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Frame shell](https://github.com/konsti219/frame-shell) - A standalone shell for the Valve Steam Frame, running on Frame Monado instead of SteamVR, built from [WayVR](https://github.com/wayvr-org/wayvr) and [WiVRn](https://github.com/WiVRn/WiVRn).
 - [Frame Dock](https://github.com/guix8/framedock) - Performance HUD, colour correction, in-game dock, browser panel and device controls for the Steam Frame (SteamVR overlay).
 - [SquintThru](https://github.com/huntergcook/SquintThru) - SquintThru turns on Steam Frame passthrough (Room View) the moment you squint one eye, and turns it back off when you open it again.
+- [Controller Utils](https://github.com/kallupx/controller-utils) - Tracks the 2026 Steam Controller on Steam Frame, with laser-pointer navigation and touchpad typing in VR.
 
 ### Eye Tracking
 
