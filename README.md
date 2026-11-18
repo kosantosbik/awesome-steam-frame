@@ -118,6 +118,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [VRDEVNET](https://vrdev.net/) - An independent publication and community dedicated to VR related projects.
 - [Steam Hardware Watch](https://github.com/seanbetts/steam-hardware-watch) - Agent-first watcher for Steam Controller, Steam Machine, and Steam Frame launch signals across Komodo, SteamDB, SteamTracking, and Valve endpoints.
 - [SteamFrame-Tools](https://github.com/joshmanpro79-create/SteamFrame-Tools) - A collection of open source tools for the Steam Frame.
+- [frameDB](https://framedb.io/) - Player reports for the compatibility of the games on Steam Frame.
 
 ### Screen Mirroring
 
