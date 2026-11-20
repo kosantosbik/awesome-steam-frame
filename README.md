@@ -4,8 +4,10 @@ A curated list of steam frame compatible software, hardware and more.
 
 ## Table of contents
 
-- [Emulation Layers](#emulation-layers)
-- [Tools](#tools)
+- [Awesome Steam Frame](#awesome-steam-frame)
+  - [Table of contents](#table-of-contents)
+  - [Emulation Layers](#emulation-layers)
+  - [Tools](#tools)
     - [Calibration](#calibration)
     - [Companion Apps](#companion-apps)
     - [Controls](#controls)
@@ -19,14 +21,14 @@ A curated list of steam frame compatible software, hardware and more.
     - [Visual](#visual)
     - [Video Playing / Streaming / Recording](#video-playing--streaming--recording)
     - [Voice Control](#voice-control)
-- [Guides & Scripts](#guides--scripts)
-- [Accessories](#accessories)
+  - [Guides \& Scripts](#guides--scripts)
+  - [Accessories](#accessories)
     - [Prescription Lenses](#prescription-lenses)
     - [Cases](#cases)
     - [Printables](#printables)
-        - [Headset](#headset)
-        - [Controllers](#controllers)
-- [Gaming](#gaming)
+      - [Headset](#headset)
+      - [Controllers](#controllers)
+  - [Gaming](#gaming)
 
 --------------------
 
@@ -88,6 +90,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 - [FrameComfort](https://github.com/alexandresanchograca/steam-frame-comfort) - Standalone dynamic FOV vignette with rest-frame snapshots for locomotion comfort. Works in local and streamed games.
+- [FrameSync](https://github.com/Mass1milian0/FrameSync) - A tool to synchronize the clipboard across the steam frame and the pc (warning: vibecoded).
 
 ### Keyboard/Mouse
 
