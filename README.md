@@ -89,6 +89,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [FrameStudio](https://github.com/Toastconcern/FrameStudio) - A custom way to create and run custom environments on the Steam Frame
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 - [FrameComfort](https://github.com/alexandresanchograca/steam-frame-comfort) - Standalone dynamic FOV vignette with rest-frame snapshots for locomotion comfort. Works in local and streamed games.
+- [frame-webapps](https://github.com/breferrari/frame-webapps) - Websites as Steam Frame apps with controller support.
 
 ### Keyboard/Mouse
 
@@ -198,6 +199,9 @@ A curated list of steam frame compatible software, hardware and more.
 
 ### Printables
 
+#### Cases
+- [Soft Foam Case](https://makerworld.com/en/models/3664332-steam-frame-case-soft-foam) - A form fitted protective case for the Steam Frame VR headset and controllers. It has accommodation for the ergonomic accessories kit as well as the Arcturus Vision camera. It is designed to be printed with foaming TPU.
+
 #### Headset
 
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
@@ -209,6 +213,8 @@ A curated list of steam frame compatible software, hardware and more.
 - [Deeper Face Spacer for Steam Frame (8 mm)](https://www.printables.com/model/1903322-deeper-face-spacer-for-steam-frame-8-mm) - A 3D printable deper face spacer for Steam Frame. Includes magnets.
 - [Steam Frame Audio Enhancer Mod](https://www.printables.com/model/1888952-speaker-waveguide-audio-enhancer-for-steam-frame) - A 3D printable mod for fixing the direction of Steam Frame speakers.
 - [Parametric Ugreen Dongle Holder](https://www.printables.com/model/1882170-parametric-ugreen-dongle-holder-for-steam-frame) - A small adapter allowing you to use a Ugreen dock on a frame, the dock easily clips in and still allows for a headstrap.
+- [Framekenstein S3 Mod](https://www.printables.com/model/1925222-framekenstein-bobovr-s3-s3-pro-m3-and-m3-pro-adapt) - A set of adapters made to allow Steam Frame to be mounted onto BoboVR S3, S3 Pro, M3, and M3 Pro straps.
+- [Zenni Lens Adapter](https://makerworld.com/en/models/3661372-steam-frame-lens-adapter-for-index-zenni-lenses) - A modified lens adapter for the Steam Frame based on a popular Valve Index adapter.
 
 #### Controllers
 
