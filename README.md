@@ -55,6 +55,7 @@ A curated list of steam frame compatible software, hardware and more.
 
 - [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 - [FrameTop (AZumD)](https://github.com/AZumD/frametop) - Fork of Frametop with with spatial profiles, additional anchoring and follow modes, Steam Frame eye-gaze-driven screen attention, desktop recovery, pointer-scaling fixes, and other experiments around using the Steam Frame as a spatial desktop.
+- [FrameHands](https://github.com/AlistairBishop06/frametop-hands-only) - A Fork of Frametop to allow full hand presence interaction within the Valve Steam Frame (SteamVR).
 - [Frame Passthrough Shortcuts](https://github.com/KominoVR/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
 - [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
 - [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
@@ -196,6 +197,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [JYS-SDM016 Quest 3 Case (AliExpress)](https://www.aliexpress.com/item/1005013181166491.html) - Hard Shell Case for Steam Frame/Meta Quest 3.
 - [Storage Bag (AliExpress)](https://www.aliexpress.com/item/1005013193216681.html) - Storage bag suitable for Steam Frame VR Dustproof protective storage bag.
 - [Venom Carry Headset (UK)](https://amzn.eu/d/0hHUysj0) - A compact case that can fit Steam Frame Headset and controllers.
+- [Dakine Goggle Stash (EU)](https://amzn.eu/d/0f7eJhhR) - A small case that can fit Steam Frame and all accesories.
 
 ### Printables
 
