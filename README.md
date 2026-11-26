@@ -91,6 +91,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 - [FrameComfort](https://github.com/alexandresanchograca/steam-frame-comfort) - Standalone dynamic FOV vignette with rest-frame snapshots for locomotion comfort. Works in local and streamed games.
 - [frame-webapps](https://github.com/breferrari/frame-webapps) - Websites as Steam Frame apps with controller support.
+- [lhctl](https://github.com/PhoenixSheppy/lhctl) - Control your base stations within SteamVR on your Steam Frame! Great for people who have mixed setups!
 
 ### Keyboard/Mouse
 
